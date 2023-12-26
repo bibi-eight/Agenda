@@ -2397,19 +2397,19 @@
     ]
   },
   "packageFolders": {
-    "/home/brenda/.nuget/packages/": {}
+    "C:\\Users\\brend\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/brenda/Workspace-Dio/Agenda/Agenda.csproj",
+      "projectUniqueName": "C:\\Projetos\\Agenda\\Agenda.csproj",
       "projectName": "Agenda",
-      "projectPath": "/home/brenda/Workspace-Dio/Agenda/Agenda.csproj",
-      "packagesPath": "/home/brenda/.nuget/packages/",
-      "outputPath": "/home/brenda/Workspace-Dio/Agenda/obj/",
+      "projectPath": "C:\\Projetos\\Agenda\\Agenda.csproj",
+      "packagesPath": "C:\\Users\\brend\\.nuget\\packages\\",
+      "outputPath": "C:\\Projetos\\Agenda\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/brenda/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\brend\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -2459,12 +2459,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.NETCore.App.Host.linux-x64",
-            "version": "[6.0.25, 6.0.25]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -2473,7 +2467,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.114/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.414\\RuntimeIdentifierGraph.json"
       }
     }
   }
